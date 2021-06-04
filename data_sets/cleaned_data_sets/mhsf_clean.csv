@@ -1,0 +1,485 @@
+,name_1,zip,flag_chld
+0,Allied Service Center NYC,10032,0.0
+1,Beth Israel Medical Center,11215,0.0
+2,New York Center Addiction Treatment,11372,0.0
+3,"Bleuler Psychotherapy Center, Inc.",11375,1.0
+4,"Safe Space NYC, Inc.",11434,1.0
+5,"Samuel Field YM & YWHA, Inc.",11375,0.0
+6,"Samuel Field YM & YWHA, Inc.",11360,0.0
+7,"Samuel Field YM & YWHA, Inc.",11433,0.0
+8,"Service Program for Older People, Inc.",10024,0.0
+9,"Service Program for Older People, Inc.",10128,0.0
+10,"Service Program for Older People, Inc.",10012,0.0
+11,"Service Program for Older People, Inc.",10003,0.0
+12,"Service Program for Older People, Inc.",10002,0.0
+13,"Service Program for Older People, Inc.",10075,0.0
+14,"Service Program for Older People, Inc.",10029,0.0
+15,"Service Program for Older People, Inc.",10128,0.0
+16,South Beach Psychiatric Center,11217,0.0
+17,South Beach Psychiatric Center,11230,0.0
+18,St. Luke's-Roosevelt Hospital center,10018,0.0
+19,Goddard-Riverside Community Center,10024,0.0
+20,"Goodwill Industries of Greater New York & Northern New Jersey, Inc.",11101,0.0
+21,"Goodwill Industries of Greater New York & Northern New Jersey, Inc.",11223,0.0
+22,"Goodwill Industries of Greater New York & Northern New Jersey, Inc.",10455,0.0
+23,"Goodwill Industries of Greater New York & Northern New Jersey, Inc.",11101,0.0
+24,"Goodwill Industries of Greater New York & Northern New Jersey, Inc.",11223,0.0
+25,"Goodwill Industries of Greater New York & Northern New Jersey, Inc.",10455,0.0
+26,"Heights Hill Mental Health Service Community Advisory Board, Inc.",11217,0.0
+27,"Hospital Audiences, Inc.",11101,1.0
+28,"Jewish Association for Services for the Aged, Inc.",10465,0.0
+29,"Jewish Association for Services for the Aged, Inc.",11206,0.0
+30,"Jewish Board of Family and Children's Services, Inc.Â ",10020,1.0
+31,"Jewish Board of Family and Children's Services, Inc.Â ",11201,0.0
+32,"Jewish Board of Family and Children's Services, Inc.Â ",10461,0.0
+33,"Jewish Board of Family and Children's Services, Inc.Â ",10463,0.0
+34,Jewish Board of Family & Children's Services,11209,0.0
+35,Jewish Board of Family & Children's Services,11201,1.0
+36,Jewish Board of Family & Children's Services,10471,0.0
+37,Jewish Board of Family & Children's Services,10463,1.0
+38,Jewish Child Care Association of New York,10016,1.0
+39,JGB Mental Health and Mental Retardation Svcs,11229,0.0
+40,Lutheran Medical Center,10019,0.0
+41,Lutheran Medical Center,11232,1.0
+42,"Palladia, Inc.",10029,0.0
+43,"Palladia, Inc.",10035,0.0
+44,"Palladia, Inc.",10029,0.0
+45,Legal Action Ctr Of The City Of Ny,10014,0.0
+46,"Qsa Services, Inc.D/B/A  Pac Of Queens",11373,0.0
+47,"Reborn For New Life, Llc",11207,0.0
+48,"Ohel Children's Home & Family Services, Inc.",11229,1.0
+49,"Pesach Tikvah-Hope Development, Inc.",11206,0.0
+50,"Pesach Tikvah-Hope Development, Inc.",11218,0.0
+51,"Postgraduate Center for Mental Health, Inc.",10010,1.0
+52,"Postgraduate Center for Mental Health, Inc.",11232,1.0
+53,Jamaica Hospital Medical Center CPEP,11418,0.0
+54,Jamaica Hospital Mental Health Clinic,11435,1.0
+55,Bronx Counseling (Resource) Center Clinic,10459,0.0
+56,Bronx Counseling (Resource) Center Clinic,10467,1.0
+57,Brooklyn Counseling (Resource) Center Clinic,11219,0.0
+58,"Staten Island Mental Health Society, Inc.",10309,0.0
+59,"Staten Island Mental Health Society, Inc.",10310,1.0
+60,"Staten Island Mental Health Society, Inc.",10304,1.0
+61,"Staten Island Mental Health Society, Inc.",10305,1.0
+62,"Staten Island Mental Health Society, Inc.",10301,1.0
+63,"Staten Island Mental Health Society, Inc.",10303,1.0
+64,"Staten Island Mental Health Society, Inc.",10304,1.0
+65,"The Child Center of NY, Inc.",11354,1.0
+66,"The Child Center of NY, Inc.",11357,1.0
+67,"The Child Center of NY, Inc.",11691,1.0
+68,"The Child Center of NY, Inc.",11102,1.0
+69,"The Child Center of NY, Inc.",11103,1.0
+70,"The Child Center of NY, Inc.",11377,1.0
+71,The Family Center,11216,1.0
+72,"The Floating Hospital, Inc.",11101,0.0
+73,"The Floating Hospital, Inc.",11101,0.0
+74,"Bleuler Psychotherapy Center, Inc.",11375,1.0
+75,"Eating Disorder Treatment of New York, LLC",10023,0.0
+76,"Federation of Org. f/t NYS Ment.Disabled, Inc",11416,0.0
+77,"Federation of Org. f/t NYS Ment.Disabled, Inc",11208,0.0
+78,Jewish Child Care Association of New York,11210,1.0
+79,"Lenox Hill Neighborhood House, Inc.",10065,0.0
+80,"National Alliance for the Mentally Ill of New York City, Inc.",10018,0.0
+81,"NYSARC, Inc. New York City Chapter",11201,0.0
+82,Saint Dominic's Home,10468,1.0
+83,"Sky Light Center, Inc.",10301,0.0
+84,"Urban Pathways, Inc.",10018,0.0
+85,"Venture House, Inc.",11432,0.0
+86,Visiting Nurse Service of New York,10451,1.0
+87,Visiting Nurse Service of New York,10455,1.0
+88,"Advanced Center for Psychotherapy, Inc.",11375,1.0
+89,"ACMH, Inc.",10018,0.0
+90,"Baltic Street AEH, Inc.",11203,0.0
+91,"Baltic Street AEH, Inc.",11217,0.0
+92,"Baltic Street AEH, Inc.",11230,0.0
+93,Berkshire Farm Center and Services for Youth,10467,0.0
+94,"Bowery Residents' Committee, Inc.",10013,0.0
+95,"Center for Urban Community Services, Inc.",10467,0.0
+96,"Center for Urban Community Services, Inc.",10016,0.0
+97,"Center for Urban Community Services, Inc.",10035,0.0
+98,"Community Association of Progressive Dominicans, Inc.",10034,1.0
+99,"EAC, Inc.",10451,0.0
+100,"EAC, Inc.",10301,0.0
+101,"Fedcap Rehabilitation Services, Inc.",10035,0.0
+102,"Fountain House, Inc.",10036,0.0
+103,"Fountain House, Inc.",10451,0.0
+104,Fund for the City of New York,11201,0.0
+105,Goddard-Riverside Community Center,10025,0.0
+106,Goddard-Riverside Community Center,10024,0.0
+107,AIDS Center of Queens County,11432,0.0
+108,After Hours Project,11221,0.0
+109,Community Health Action of Staten Island,10301,0.0
+110,BOOM!Health,10451,0.0
+111,Family Services Network of New York,11207,0.0
+112,FROST'D at Harlem United,10027,0.0
+113,Housing Works,10012,0.0
+114,Lower East Side Harm Reduction Center,10002,0.0
+115,New York Harm Reduction Educators,10451,0.0
+116,Positive Health Project,10011,0.0
+117,St. Ann's Corner of Harm Reduction,10459,0.0
+118,Streetwork Project at Safe Horizon,10002,0.0
+119,VOCAL - NY,11217,0.0
+120,Washington Heights Corner Project,10033,0.0
+121,Transitional Services for New York Inc,11435,0.0
+122,Jewish Board of Family/Childrens Servs,10467,1.0
+123,TRI Center Inc,11201,0.0
+124,Faith Mission,11420,0.0
+125,Metropolitan Center for Mental Health,10024,1.0
+126,Metropolitan Center for Mental Health,10025,1.0
+127,SES Operating Corp/DBA Harlem East,10035,0.0
+128,Promesa Inc,10457,0.0
+129,Astor Servs for Children and Families,10452,1.0
+130,Argus Community Inc,10031,0.0
+131,Amethyst House Inc,10301,0.0
+132,Odyssey House Inc,10459,1.0
+133,Coney Island Hospital,11235,0.0
+134,Morris Heights Health Center,10453,1.0
+135,TRI Center Inc,10458,0.0
+136,Montefiore Medical Center,10466,0.0
+137,Greenwich House Inc,10001,0.0
+138,Bridge Back to Life Center Inc,10314,0.0
+139,Bridge Back to Life Center Inc,11201,0.0
+140,Bridge Back to Life Center Inc,11235,0.0
+141,Success Counseling Servs,10452,0.0
+142,Saint Johns Episcopal Hospital,11691,1.0
+143,Saint Barnabas Hospital,10457,0.0
+144,Jewish Board of Family/Childrens Servs,11362,1.0
+145,Interfaith Medical Center Inc,11213,0.0
+146,HELP MMTP Clinic Unit II OTP,10035,1.0
+147,Ackerman Institute for the Family,10010,1.0
+148,Visiting Nurse Service of New York,10455,1.0
+149,Arms Acres Inc,10467,1.0
+150,Arms Acres Inc,11415,1.0
+151,Asian Community Alcohol Counseling,11354,1.0
+152,Jewish Board of Family/Childrens Servs,11219,1.0
+153,RUMC Silberstein Clinic Med Sup OP,10301,0.0
+154,START Treatment and Recovery Centers,11238,0.0
+155,Astor Servs for Children and Families,10466,1.0
+156,First Steps to Recovery Inc,11235,0.0
+157,Dynamic Youth Community Inc,11230,0.0
+158,BGR Services CD OP,11206,1.0
+159,Morris Heights Health Center,10453,1.0
+160,Staten Island University Hospital,10305,0.0
+161,VA NY Harbor Healthcare System,10314,0.0
+162,Blanton Peale Counseling Center,10001,0.0
+163,Lower Eastside Service Center,10002,0.0
+164,Odyssey House Inc,10003,1.0
+165,Center for Hearing and Communications,10004,1.0
+166,Community Access,10009,0.0
+167,VA NY Harbor Healthcare System,10010,0.0
+168,Bliss Poston the Second Wind,10001,0.0
+169,Greenwich House Inc,10012,0.0
+172,Therapeutic Early Childhood Center,10029,1.0
+173,Argus Community Inc,10030,0.0
+174,Harlem Bay Network PROS,10035,0.0
+175,Joan and Sanford I Weill Med College,10036,0.0
+176,New York City Childrens Center,10128,1.0
+177,Postgraduate Center for MH Inc,10453,0.0
+178,Odyssey House Inc,10456,1.0
+179,Astor Servs for Children and Families,10466,1.0
+180,JASA,10458,0.0
+181,Bronx Addiction Treatment Center,10461,0.0
+182,Astor Servs for Children and Families,10467,1.0
+183,Odyssey House Inc,10459,1.0
+184,Shiloh Consulting LLC,10001,0.0
+185,Fortune Society Inc,11101,0.0
+186,HANAC Inc,11102,0.0
+187,Interborough Developmental and,11203,1.0
+188,New York Harbor Healthcare System,11209,0.0
+189,Jewish Board of Family/Childrens Servs,11213,1.0
+190,Neighborhood Counseling Center Inc,11228,1.0
+191,Brooklyn Center for,11230,1.0
+192,New York Therapeutic Communities Inc,11432,0.0
+193,Interfaith Medical Center,11238,0.0
+194,Elmcor Youth and Adult Activities Inc,11368,0.0
+195,Bleuler Psychotherapy Center Inc,11375,1.0
+197,Queens Village Comm for MH for,11434,0.0
+198,Epilepsy Institute,10006,0.0
+199,Services for the UnderServed,11238,0.0
+200,Institute for Family Health,10003,1.0
+201,Harlem East Life Plan (HELP),10035,0.0
+202,AIDS Center of Queens County Inc,11432,0.0
+203,First Steps to Recovery Inc,10036,0.0
+204,South Beach Addiction Treatment Center,10305,0.0
+205,Interfaith Medical Center Inc,11221,0.0
+206,Greenwich House Inc,10014,1.0
+209,Osborne Treatment Services Inc,10455,1.0
+210,League School,11203,1.0
+214,Greenwich House Inc,10014,0.0
+215,Richmond University Medical Center,10310,1.0
+216,Richmond University Medical Center,10304,1.0
+217,NYC/HHC Queens Hospital Center,11432,1.0
+218,Brooklyn Hospital Center,11201,0.0
+219,ACI,10016,0.0
+220,AHRC Healthcare Inc,10038,0.0
+221,Addicts Rehabilitation Center Fund Inc,10035,0.0
+222,Addicts Rehabilitation Center Fund Inc,10035,0.0
+223,Advanced Center for Psychotherapy Inc,11432,1.0
+224,Advanced Human Services Inc,11375,0.0
+225,Alpha School Center OP,11208,0.0
+226,Anchor House Inc,11216,0.0
+227,Anchor House Inc,11213,0.0
+228,Argus Community Inc,10456,1.0
+229,Argus Community Inc,10455,0.0
+230,Assertive Community Treatment Team,10029,0.0
+231,Association to Benefit Children,10035,1.0
+232,August Aichhorn Center,10025,1.0
+233,Bailey House Inc,10035,0.0
+234,Bellevue Hospital Center,10016,0.0
+235,Bellevue Hospital Center,10016,0.0
+236,Beth Israel Medical Center,10009,0.0
+237,Beth Israel Medical Center,10035,0.0
+238,Beth Israel Medical Center,10010,0.0
+239,Beth Israel Medical Center,10035,0.0
+240,Beth Israel Medical Center,10010,1.0
+241,Beth Israel Medical Center,10035,0.0
+242,Beth Israel Medical Center,10027,0.0
+243,Beth Israel Medical Center,11217,0.0
+244,Beverley Mack Harry Consulting Svs Inc,11213,1.0
+245,Bohan Denton Flatlands Guidance Center,11234,1.0
+246,Bridge Back to Life Center Inc,10018,0.0
+247,Bridge Inc,10025,0.0
+248,Bridge Inc,10009,0.0
+249,Bridge Inc,10027,0.0
+250,Bridge Inc,10025,0.0
+251,Bridging Access to Care Inc,11213,0.0
+252,Bronx Lebanon Hospital Center,10456,0.0
+253,Bronx Provider Consumer Alliance,10461,0.0
+254,Bronx Psychiatric Center,10467,0.0
+255,Bronx/Lebanon Hospital Center,10457,1.0
+256,Bronx/Lebanon Hospital Center,10456,1.0
+257,Bronx/Lebanon Hospital Center,10456,0.0
+258,Bronx/Lebanon Hospital Center,10456,1.0
+259,Brookdale Hospital Medical Center,11212,1.0
+260,Brooklyn Bureau of Community Services,11201,0.0
+261,Brooklyn Center for,11217,1.0
+262,Brooklyn Community Services,11217,0.0
+263,Brownsville Community Development Corp,11212,0.0
+264,CCNS Flatbush Addiction,11210,0.0
+265,Callen Lorde Community Health Center,10011,1.0
+266,Camelot of Staten Island Inc,10302,0.0
+267,Camelot of Staten Island Inc,10314,0.0
+268,Canarsie Aware,11236,0.0
+269,Carnegie Hill Institute Inc,10128,0.0
+270,Catholic Charities Neighborhood Servs,11691,1.0
+271,Charles Waldo MaClean Espiscopal,11691,0.0
+272,Child Center of NY Inc,11432,1.0
+273,Child Center of NY Inc,11432,1.0
+274,Child Center of NY Inc,11434,1.0
+275,Child Center of NY Inc,11373,1.0
+276,Child Center of NY Inc,11373,1.0
+277,Child Center of NY Inc,11355,1.0
+278,Child Center of NY Inc,11377,1.0
+279,Childrens Aid Society,10040,1.0
+280,Childrens Aid Society Inc,10026,1.0
+281,Community Health Action of,10301,1.0
+282,Counseling Services of EDNY,11201,0.0
+283,Counseling Services of NY LLC/CD OP,10452,0.0
+284,Creedmoor Addiction Treatment Center,11427,0.0
+285,Cumberland Diagnostic and Trt Center,11205,0.0
+286,Cumberland Diagnostic/Treatment Center,11205,0.0
+287,Cyler House Behavioral Health Clinic,10009,0.0
+288,Elmhurst Hospital Center,11373,0.0
+289,Elmhurst Hospital Center,11373,0.0
+290,Elmhurst Hospital Center,11373,1.0
+291,Episcopal Health Services Inc,11691,0.0
+292,Esperanza Basic PROS,10457,0.0
+293,Exponents Inc,10004,0.0
+294,FEDCAP Rehabilitation Services Inc,10456,0.0
+295,FEGS,10467,1.0
+296,FEGS,10455,1.0
+297,Federation Employment Guidance Service,11374,1.0
+298,Federation Employment/Guidance Servs,10457,0.0
+299,Fifth Avenue Counseling Center Inc,10010,1.0
+300,Fordham/Tremont CMHC,10453,1.0
+301,Fordham/Tremont CMHC,10458,1.0
+302,Fountain House Inc,10036,0.0
+303,Franklin House IR,10456,0.0
+304,Freedom Institute Inc,10022,1.0
+305,Goodwill Industries of Greater NY,11102,0.0
+306,Gracie Square Hospital Inc,10021,0.0
+307,Graham/Windham Servs Families Children,10039,1.0
+308,Greenhope Services for Women Inc IR,10035,0.0
+309,HELP PSI Inc,11216,1.0
+310,HELP/PSI Services Corporation,10452,1.0
+311,HHC/Bellevue Hospital,10016,0.0
+312,HHC/Bellevue Hospital,10016,0.0
+313,HHC/Metropolitan Hospital Center,10029,0.0
+314,Hamilton Madison House Inc,10002,1.0
+315,Hands Across Long Island,11432,0.0
+316,Harlem East Life Plan (HELP),10035,1.0
+317,Harlem Hospital Center,10037,0.0
+318,Harlem Hospital Center,10037,0.0
+319,Harlem Hospital Center,10037,0.0
+320,Hazelden/New York OP,10001,0.0
+321,Housing Plus Solutions Inc,11208,0.0
+322,Hudson Guild Counseling Service,10001,1.0
+323,ICL Inc,11237,1.0
+324,ICL Walit,11217,1.0
+325,Institute for Community Living Inc,11233,0.0
+326,Institute for Community Living Inc,11207,1.0
+327,Institute for Community Living Inc,11236,1.0
+328,Institute for Community Living Inc,11206,0.0
+329,Institute for Community Living Inc,11233,0.0
+330,Institute for Family Health,10035,1.0
+331,Inter Care Ltd,10010,0.0
+332,Interborough Developmental and,11229,1.0
+333,Interborough Developmental and,11236,1.0
+334,Interborough Develpomental and,11211,1.0
+335,Interfaith Medical Center,11213,0.0
+336,Interfaith Medical Center,11206,0.0
+337,Interline EAP Program OP,11435,0.0
+338,Inwood Community Services Inc OP,10034,1.0
+339,JBFCS,10034,1.0
+340,Jewish Board of Family/Childrens Servs,11209,1.0
+341,Jewish Board of Family/Childrens Servs,11223,0.0
+342,Jewish Board of Family/Childrens Servs,10037,1.0
+343,Jewish Board of Family/Childrens Servs,11224,1.0
+344,Jewish Board of Family/Childrens Servs,10009,1.0
+345,Jewish Board of Family/Childrens Servs,10019,1.0
+346,John David Center,11233,0.0
+347,LI Jewish Med Ctr Zucker Hillside Div,11423,0.0
+348,LIGHTHOUSE GUILD,10023,0.0
+349,League School,11238,1.0
+350,Lenox Hill Hospital,10075,1.0
+351,Lexington Center for,11370,1.0
+352,Lifespire Inc,11423,0.0
+353,Lincoln Medical and MH Center,10454,0.0
+354,Lower Eastside Serv Ctr SuCasa M IR,10002,0.0
+355,Lower Eastside Service Center,10002,0.0
+356,Lutheran Medical Center,11220,1.0
+357,MONTEFIORE WELLNESS AT MELROSE,10451,0.0
+358,MORRIS L BLACK,10314,1.0
+359,Metropolitan Center for Mental Health,10032,1.0
+360,Montefiore Medical Center,10467,1.0
+361,Montefiore Medical Center,10466,1.0
+362,Montefiore Wakefield Division,10470,0.0
+363,Mount Sinai,10019,0.0
+364,Mount Sinai,10019,1.0
+365,Mount Sinai,10019,0.0
+366,Mount Sinai Medical Center,10128,1.0
+367,Mount Sinai Medical Center,10029,1.0
+368,Mount Sinai Medical Center,10029,0.0
+369,Mount Sinai West,10025,0.0
+370,Mount Sinai West,10025,0.0
+371,Mount Sinai West,10025,0.0
+372,NY Psychotherapy Counseling,11355,0.0
+373,NY Psychotherapy Counseling Sanford,11224,0.0
+374,NYC/HHC Bellevue Hospital Center,10016,0.0
+375,NYC/HHC Bellevue Hospital Center,10016,1.0
+376,NYC/HHC Harlem Hospital Center,10037,0.0
+377,NYC/HHC Queens Hospital Center,11432,0.0
+378,NYC/HHC Queens Hospital Center,11432,0.0
+379,NYC/HHC Woodhull Medical MH Ctr,11206,0.0
+380,Narco Freedom Inc,11231,0.0
+381,Narco Freedom Inc/New Beginnings,10455,1.0
+382,Neighborhood Coalition for Shelter Inc,10021,0.0
+383,New Directions Alcohol and,11217,1.0
+384,New Horizon Counseling Center,11420,1.0
+385,New Horizon Counseling Center Inc,11691,1.0
+386,New Horizon Counseling Center Inc,11691,1.0
+387,New Spirit II Inc,11433,0.0
+388,New York Center Addiction Treatment OP,10012,0.0
+389,New York Center for Living Inc,10022,1.0
+390,New York Center for Living Inc,10022,1.0
+391,New York City Childrens Center,11233,1.0
+392,New York Foundling Hospital,10027,1.0
+393,New York Foundling Hospital,10027,0.0
+394,New York Gracie Square Hospital Inc,10021,0.0
+395,New York Presbyterian Hospital,10021,0.0
+396,New York Presbyterian Hospital,10025,1.0
+397,New York Presbyterian Hospital,10033,1.0
+398,New York Presbyterian Hospital,10040,1.0
+399,New York Presbyterian Hospital,10039,1.0
+400,New York Presbyterian Hospital,10065,1.0
+401,New York Presbyterian Hospital,10032,0.0
+402,New York Psychiatric Institute,10032,1.0
+403,New York Psychotherapy Counseling Ctr,11373,0.0
+404,New York Service Network OP,11230,0.0
+405,New York Therapeutic,11205,0.0
+406,New York Therapeutic Communities Inc,11233,0.0
+407,New York Therapeutic Communities Inc,11435,0.0
+408,New York University Medical Center,10016,0.0
+409,North Central Bronx Hospital,10467,0.0
+410,North Crown Heights Family Outreach OP,11238,0.0
+411,Northside Center for Child Development,10029,1.0
+412,Odyssey House Inc,10035,0.0
+413,Odyssey House Inc,10035,0.0
+414,Ohel Childrens Home Family Servs Inc,11219,0.0
+415,Ohel Childrens Home Family Servs Inc,11229,1.0
+416,One World Counseling LLC,11229,0.0
+417,Outreach Development Corp OP 2,11222,1.0
+418,Outreach Development IR,11385,1.0
+419,Outreach Outpatient Services (OOS),11418,1.0
+420,PSCH Inc,10461,1.0
+421,Paul J Cooper Center for Human Servs,11216,0.0
+422,Payne Whitney Manhattan/CDTP,10065,0.0
+423,Phoenix House,11238,0.0
+424,Phoenix House,11101,0.0
+425,Phoenix House Jack Aron Center,10023,0.0
+426,Pibly Residential Programs Inc,10461,0.0
+427,Pibly Residential Programs Inc,10455,0.0
+428,Project Hospitality Inc,10310,0.0
+429,Project Renewal,10003,0.0
+430,Project Renewal,10003,0.0
+431,Project Renewal,10003,0.0
+432,Promesa Inc,10457,0.0
+433,Promesa Inc,10457,0.0
+434,Puerto Rican Family Institute Inc,10011,1.0
+435,Queens Cnty Neuropsychiatric Institute,11372,1.0
+436,Reality House Veterans CR,11102,0.0
+437,Realization Center Inc OP 1,11201,1.0
+438,Realization Center Inc/Licensed Outpt,10003,1.0
+439,Richmond Medical Ctr DBA Richmond UMC,10310,0.0
+440,Riverdale Mental Health Assoc (RMHA),10463,0.0
+441,Riverdale Mental Health Assoc Inc,10471,1.0
+442,SAFE Foundation OP,11223,0.0
+443,SCAN/NY Making Choices Treatment Ctr,10452,1.0
+444,SES Operating Corporation,10035,0.0
+445,SUS Briarwood SRO,11220,0.0
+446,Safe Space NYC Inc,11432,1.0
+447,Saint Barnabas Hosp/Fordham Tremont,10458,1.0
+448,Saint Barnabas Hospital,10457,0.0
+449,Saint Barnabas Hospital,10457,0.0
+450,Saint Barnabas Hospital,10457,0.0
+451,Saint Barnabas Hospital,10451,0.0
+452,Saint Vincents Mental Health Services,11201,1.0
+453,Saint Vincents Services Inc,11432,1.0
+454,Saint Vincents Services OP 1,10301,1.0
+455,Samaritan Daytop Village,10461,1.0
+456,Samaritan Village Inc,11435,0.0
+457,Samaritan Village Inc,10036,1.0
+458,Samaritan Village Inc,11418,0.0
+459,Samaritan Village Inc,11418,0.0
+460,Samaritan Village Inc,10452,0.0
+461,Samaritan Village Inc,11435,0.0
+462,Samaritan Village Inc,10025,0.0
+463,Samaritan Village Inc,10025,0.0
+464,Samuel Field YM and YWHA,11362,0.0
+465,Service Program for Older People Inc,10024,0.0
+466,Silver Lake Support Services Inc,10301,0.0
+467,South Beach Psych Ctr/Coney Island,11224,0.0
+468,South Beach Psychiatric Center,11209,0.0
+469,South Beach Psychiatric Center,10305,0.0
+470,South Beach Psychiatric Center,10305,0.0
+471,South Brooklyn Medical Admin Servs,11232,0.0
+472,St Vincent Hosp/Div St Joseph Med Ctr,11207,0.0
+473,Staten Island Mental Hlth Society Inc,10301,1.0
+474,Staten Island Mental Hlth Society Inc,10301,1.0
+475,Staten Island University Hospital,11218,0.0
+476,Steinway Child and Family Services Inc,10451,1.0
+477,Stuyvesant Square Chemical Dependency,10003,0.0
+478,TRI Center Inc,10018,0.0
+479,The PAC Program of the Bronx Inc OP,10472,1.0
+480,The Resource Training Center Inc,11232,1.0
+481,Turning Point Brooklyn Inc OP,11220,1.0
+482,Union Settlement Association Inc,10029,1.0
+483,Unitas OP,10003,1.0
+484,Upper Manhattan MH Center Inc,10030,0.0
+485,VA NY Harbor Healthcare System,11201,0.0
+486,VIDA CLINIC,10457,1.0
+487,West Midtown Medical  Group,10001,0.0
+488,West Midtown Medical Group,10011,0.0
+489,William A White Institute,10023,1.0
+490,Womens Center for SA and Wellness OP,10455,0.0
+491,YMCA of Greater New York,10304,0.0
